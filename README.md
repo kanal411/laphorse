@@ -36,3 +36,5 @@ The goal of this project is to create reliable and practical laptop with desktop
 5. wifi_bracket.stl (optional) - Any material will do.
 
 ## Photos
+![photo1](images/photo1.jpg)
+![photo2](images/photo2.jpg)
