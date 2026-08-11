@@ -37,4 +37,5 @@ The goal of this project is to create reliable and practical laptop with desktop
 
 ## Photos
 ![photo1](images/photo1.jpg)
+
 ![photo2](images/photo2.jpg)
