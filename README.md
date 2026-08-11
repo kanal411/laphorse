@@ -1,4 +1,3 @@
-<img width="4080" height="2296" alt="20260706_225402" src="https://github.com/user-attachments/assets/156e7d64-38e5-4f3f-9fd5-e2eeae2fd68b" /># laphorse
 A 3D-printed case for using a microATX motherboard in a laptop form factor.
 
 ## Purpose
